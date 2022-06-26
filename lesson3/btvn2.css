@@ -1,0 +1,31 @@
+.zero {
+    
+    width: 50%;
+    margin: auto;
+}
+
+.second {
+    color: white;
+}
+
+.first {
+    background: rgb(182, 194, 194);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 90%;
+    height: 350px;
+}
+
+.firth {
+    color: gray;
+}
+
+.seven {
+    width: 100px;
+    height: 35px;
+    color: white;
+    background: rgb(82, 115, 154);
+    border-color: floralwhite;
+}

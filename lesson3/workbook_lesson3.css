@@ -1,0 +1,24 @@
+h2 {
+    color: gray;
+}
+
+.zero {
+    background: rgb(181, 213, 224);
+    margin: auto;
+    width: 45%;
+}
+
+.three {
+    color: gray;
+}
+
+hr {
+    border-top: 5px dashed gray;
+    width: 70%;
+    margin-left: 0
+}
+
+fa {
+    content: '\f0e0';
+    color: red;
+}

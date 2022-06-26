@@ -1,0 +1,36 @@
+.zero {
+    display: flex;
+    margin: auto;
+    width: 60%;
+}
+
+.first {
+    background: rgb(182, 194, 194);
+    width: 70%;
+}
+
+.second {
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 90%;
+
+    /* padding: 40%; */
+}
+
+.third {
+    margin-left: 20px;
+}
+
+.fourth {
+    color: red;
+    text-align: center;
+}
+
+.six {
+    background: white;
+    width: 70px;
+    height: 30px;
+}
